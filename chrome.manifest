@@ -1,0 +1,4 @@
+content xul_periodic_table chrome/content/
+
+overlay chrome://xulapp/content/mainUIOverlay.xul chrome://xul_periodic_table/content/overlay.xul
+

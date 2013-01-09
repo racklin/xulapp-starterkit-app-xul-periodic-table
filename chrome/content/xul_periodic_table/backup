@@ -1,0 +1,3 @@
+set -x
+rsync  -e ssh --archive --cvs-exclude --update --compress --verbose \
+       ~ali/public_html/xul/* zaphod.axian.com:public_html/xul/
