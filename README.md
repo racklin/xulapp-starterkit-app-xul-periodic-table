@@ -14,5 +14,5 @@ XUL Periodic Table contents is based on (http://www.hevanet.com/acorbin/xul/top.
 
 License
 -----------------------------
-Webapp Wrapper For XULApp StarterKit are licensed under the [MIT License](http://opensource.org/licenses/MIT).
-See LICENSE.TXT for more details.
+Webapp Wrapper For XULApp StarterKit are licensed under the [MPL License].
+See LICENSE for more details.
