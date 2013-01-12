@@ -5,7 +5,7 @@ XUL Periodic Table is XUL Tutorial for XULApp StarterKit.
 
 Download pre-build XPI
 -----------------------------
-Download pre-build XPI in [downloads](https://github.com/racklin/xulapp-starterkit-app-xul-periodic-table/tree/master/downloads)
+Download pre-build XPI in [download XPI](https://github.com/racklin/xulapp-starterkit-app-xul-periodic-table/raw/master/downloads/xulapp-starterkit-xul-periodic-table-1.0.1.xpi)
 
 
 Credits
